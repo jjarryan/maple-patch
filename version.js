@@ -1,0 +1,12 @@
+﻿{
+  "files": [
+    {
+      "path": "Item/Etc/0443.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0443.img"
+    },
+    {
+      "path": "String/Etc.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
+    }
+  ]
+}
