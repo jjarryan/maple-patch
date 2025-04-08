@@ -1,14 +1,46 @@
 ﻿{
-"version": "1.0.2",
+"version": "1.0.3",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
-      "path": "Item/Etc/0443.img",
-      "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0443.img"
+      "path": "Character/Ring/01112715.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Character/Ring/01112715.img"
+    },
+    {
+      "path": "Etc/Commodity.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
+    },
+    {
+      "path": "Etc/ItemMake.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ItemMake.img"
+    },
+    {
+      "path": "Item/Etc/0400.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0400.img"
+    },
+    {
+      "path": "Mob/9300397.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Mob/9300397.img"
+    },
+    {
+      "path": "Mob/9300398.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Mob/9300398.img"
+    },
+    {
+      "path": "Mob/9300399.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Mob/9300399.img"
+    },
+    {
+      "path": "Mob/9300400.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Mob/9300400.img"
     },
     {
       "path": "String/Etc.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
+    },
+    {
+      "path": "UI/UIWindow.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/UI/UIWindow.img"
     }
   ]
 }
