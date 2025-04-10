@@ -1,5 +1,5 @@
 ﻿{
-"version": "1.0.3",
+"version": "1.0.4",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
@@ -11,8 +11,20 @@
       "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0443.img"
     },
     {
+      "path": "Map/Map/Map9/910000000.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/910000000.img"
+    },
+    {
       "path": "Etc/Commodity.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
+          },
+    {
+      "path": "Npc/1052208.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Npc/1052208.img"
+          },
+    {
+      "path": "Npc/9330033.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9330033.img"
     },
     {
       "path": "Etc/ItemMake.img",
@@ -41,6 +53,14 @@
     {
       "path": "String/Etc.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
+    },
+    {
+      "path": "String/Eqp.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
+    },
+    {
+      "path": "String/Npc.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/String/Npc.img"
     },
     {
       "path": "UI/UIWindow.img",
