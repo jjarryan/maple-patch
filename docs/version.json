@@ -1,10 +1,22 @@
 ﻿{
-"version": "1.0.4",
+"version": "1.0.5",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
       "path": "Character/Ring/01112715.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Character/Ring/01112715.img"
+    },
+    {
+      "path": "Character/00002000.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Character/00002000.img"
+    },
+    {
+      "path": "Skill/521.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/521.img"
+    },
+    {
+      "path": "Sound/Bgm00.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Sound/Bgm00.img"
     },
     {
       "path": "Item/Etc/0443.img",
