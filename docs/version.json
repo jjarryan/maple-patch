@@ -1,5 +1,5 @@
 ﻿{
-"version": "1.0.5",
+"version": "1.0.6",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
@@ -45,6 +45,10 @@
     {
       "path": "Item/Etc/0400.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0400.img"
+    },
+    {
+      "path": "Mob/8220002.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Mob/8220002.img"
     },
     {
       "path": "Mob/9300397.img",
