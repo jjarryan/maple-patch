@@ -1,5 +1,5 @@
 ﻿{
-"version": "1.0.6",
+"version": "1.0.7",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
@@ -25,6 +25,14 @@
     {
       "path": "Map/Map/Map9/910000000.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/910000000.img"
+    },
+    {
+      "path": "Map/Map/Map1/103000805.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/103000805.img"
+    },
+    {
+      "path": "Map/Map/Map1/103000811.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/103000811.img"
     },
     {
       "path": "Etc/Commodity.img",
