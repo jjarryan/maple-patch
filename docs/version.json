@@ -1,5 +1,5 @@
 ﻿{
-"version": "1.0.7",
+"version": "1.0.8",
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
@@ -37,14 +37,22 @@
     {
       "path": "Etc/Commodity.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
-          },
+    },
     {
       "path": "Npc/1052208.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Npc/1052208.img"
-          },
+    },
     {
       "path": "Npc/9330033.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9330033.img"
+    },
+    {
+      "path": "Npc/1052209.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Npc/1052209.img"
+    },
+    {
+      "path": "Npc/9330034.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9330034.img"
     },
     {
       "path": "Etc/ItemMake.img",
