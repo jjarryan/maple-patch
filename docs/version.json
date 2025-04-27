@@ -3,10 +3,6 @@
 "launchArgs": "14.7.185.221 8484",
   "files": [
     {
-      "path": "String/Map.img",
-      "url": "https://jjarryan.github.io/maple-patch/Data/String/Map.img"
-    },
-    {
       "path": "Map/Map/Map1/105100000.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100000.img"
     },
