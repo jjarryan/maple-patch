@@ -1,7 +1,22 @@
-﻿{
-"version": "1.1.1",
-"launchArgs": "14.7.185.221 8484",
+{
+  "version": "1.1.2",
+  "launchArgs": "14.7.185.221 8484",
+  "patcherMinVersion": "2.0",
+  "dataSizeMB": 6276,
+  "fileCount": 64861, 
   "files": [
+    {
+      "path": "Character/Accessory/01022347.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01022347.img"
+	},
+    {
+      "path": "Character/Accessory/01022129.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01022129.img"
+    },
+    {
+      "path": "Character/Ring/01112966.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Character/Ring/01112966.img"
+    },
     {
       "path": "Map/Map/Map1/105100000.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100000.img"
@@ -13,6 +28,86 @@
     {
       "path": "Map/Map/Map1/105100101.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100101.img"
+	},
+    {
+      "path": "Map/Map/Map1/103000003.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/103000003.img"
+	},
+    {
+      "path": "Map/Map/Map1/105030000.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105030000.img"
+	},
+    {
+      "path": "Map/Map/Map2/260000302.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/260000302.img"
+	},
+    {
+      "path": "Map/Map/Map8/800020110.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map8/800020110.img"
+	},
+    {
+      "path": "Map/Map/Map8/800020120.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map8/800020120.img"
+	},
+    {
+      "path": "Map/Map/Map8/800020130.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map8/800020130.img"
+	},
+    {
+      "path": "Skill/110.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/110.img"
+	},
+    {
+      "path": "Skill/111.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/111.img"
+	},
+    {
+      "path": "Skill/120.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/120.img"
+	},
+    {
+      "path": "Skill/121.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/121.img"
+	},
+    {
+      "path": "Skill/210.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/210.img"
+	},
+    {
+      "path": "Skill/211.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/211.img"
+	},
+    {
+      "path": "Skill/311.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/311.img"
+	},
+    {
+      "path": "Skill/320.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/320.img"
+	},
+    {
+      "path": "Skill/420.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/420.img"
+	},
+    {
+      "path": "Skill/421.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/421.img"
+	},
+    {
+      "path": "Skill/510.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/510.img"
+	},
+    {
+      "path": "Skill/512.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/512.img"
+	},
+    {
+      "path": "String/Eqp.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
+	},
+    {
+      "path": "String/Skill.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/String/Skill.img"
     }
   ]
 }
