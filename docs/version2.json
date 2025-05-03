@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.2",
+  "version": "1.1.3",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 6283,
@@ -100,6 +100,10 @@
     {
       "path": "Skill/512.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Skill/512.img"
+    },
+    {
+      "path": "Skill/MobSkill.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Skill/MobSkill.img"
 	},
     {
       "path": "String/Eqp.img",
