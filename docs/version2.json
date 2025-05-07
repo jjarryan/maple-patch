@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.3",
+  "version": "1.1.4",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 6427,
@@ -16,6 +16,22 @@
     {
       "path": "Character/Ring/01112966.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Character/Ring/01112966.img"
+	        },
+    {
+      "path": "Map/Map/Map1/105100300.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100300.img"
+	        },
+    {
+      "path": "Map/Map/Map1/105100301.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
+	        },
+    {
+      "path": "Map/Map/Map1/105100400.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100400.img"
+	        },
+    {
+      "path": "Map/Map/Map1/105100401.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100401.img"
     },
     {
       "path": "Map/Map/Map1/105100000.img",
@@ -52,6 +68,46 @@
     {
       "path": "Map/Map/Map8/800020130.img",
       "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map8/800020130.img"
+	    	},
+    {
+      "path": "Map/Map/Map9/926110000.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110000.img"
+	    	},
+    {
+      "path": "Map/Map/Map9/926110001.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110001.img"
+	    	    	},
+    {
+      "path": "Map/Map/Map9/926110100.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110100.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110200.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110200.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110300.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110300.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110400.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110400.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110401.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110401.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110600.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110600.img"
+	    	    	    	},
+    {
+      "path": "Map/Map/Map9/926110700.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map9/926110700.img"
+	    	},
+    {
+      "path": "Reactor/2618000.img",
+      "url": "https://jjarryan.github.io/maple-patch/Data/Reactor/2618000.img"
 	},
     {
       "path": "Skill/110.img",
