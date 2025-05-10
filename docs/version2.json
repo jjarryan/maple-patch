@@ -5,14 +5,13 @@
   "dataSizeMB": 5786,
   "fileCount": 64578, 
   "files": [
-    },
-    {
-      "path": "Map/Map/Map1/105100300.img",
-      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100300.img"
-    },
-    {
-      "path": "Map/Map/Map1/105100301.img",
-      "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
+     {
+    "path": "Map/Map/Map1/105100300.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100300.img"
+  },
+  {
+    "path": "Map/Map/Map1/105100301.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
     }
   ]
 }
