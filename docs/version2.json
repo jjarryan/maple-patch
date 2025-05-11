@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.6",
+  "version": "1.1.7",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5790,
@@ -14,8 +14,24 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
   },
   {
-    "path": "Skill/510.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/510.img"
+    "path": "Quest/Act.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Act.img"
+  },
+  {
+    "path": "Quest/Check.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Check.img"
+  },
+  {
+    "path": "Quest/QuestInfo.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestInfo.img"
+  },
+  {
+    "path": "Quest/Say.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Say.img"
+  },
+  {
+    "path": "Quest/QuestData/2238.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2238.img"
     }
   ]
 }
