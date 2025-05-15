@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.7",
+  "version": "1.1.8",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5786,
@@ -32,6 +32,18 @@
   {
     "path": "Quest/QuestData/2238.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2238.img"
+  },
+  {
+    "path": "Character/Accessory/01142982.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142982.img"
+  },
+  {
+    "path": "Character/Accessory/01142983.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142983.img"
+  },
+  {
+    "path": "String/Eqp.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
     }
   ]
 }
