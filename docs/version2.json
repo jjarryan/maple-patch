@@ -1,8 +1,8 @@
 ﻿{
-  "version": "1.1.8",
+  "version": "1.1.9",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
-  "dataSizeMB": 5788,
+  "dataSizeMB": 5796,
   "fileCount": 64580, 
   "files": [
      {
@@ -44,6 +44,18 @@
   {
     "path": "String/Eqp.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
+  },
+  {
+    "path": "String/Consume.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
+  },
+  {
+    "path": "Item/Consume/0202.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
+  },
+  {
+    "path": "Item/Consume/0243.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
     }
   ]
 }
