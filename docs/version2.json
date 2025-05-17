@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1.0",
+  "version": "1.2.0",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5806,
@@ -56,6 +56,18 @@
   {
     "path": "Item/Consume/0243.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
+  },
+  {
+    "path": "String/Ins.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Ins.img"
+  },
+  {
+    "path": "Etc/ScriptInfo.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ScriptInfo.img"
+  },
+  {
+    "path": "Npc/2060002.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/2060002.img"
     }
   ]
 }
