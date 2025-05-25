@@ -1,9 +1,9 @@
 ﻿{
-  "version": "1.2.0",
+  "version": "1.2.1",
   "launchArgs": "14.7.185.221 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5806,
-  "fileCount": 64580, 
+  "fileCount": 64582, 
   "files": [
      {
     "path": "Map/Map/Map1/105100300.img",
@@ -34,8 +34,36 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2238.img"
   },
   {
+    "path": "Quest/QuestData/2239.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2239.img"
+  },
+  {
     "path": "Character/Accessory/01142982.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142982.img"
+      },
+  {
+    "path": "Character/Accessory/01132000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132000.img"
+  },
+  {
+    "path": "Character/Accessory/01132001.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132001.img"
+  },
+  {
+    "path": "Character/Accessory/01132002.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132002.img"
+  },
+  {
+    "path": "Character/Accessory/01132003.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132003.img"
+  },
+  {
+    "path": "Character/Accessory/01132004.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132004.img"
+  },
+  {
+    "path": "Character/Accessory/01132321.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132321.img"
   },
   {
     "path": "Character/Accessory/01142983.img",
@@ -58,6 +86,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
   },
   {
+    "path": "Item/Install/0398.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Install/0398.img"
+  },
+  {
     "path": "String/Ins.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Ins.img"
   },
@@ -68,6 +100,10 @@
   {
     "path": "Npc/2060002.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Npc/2060002.img"
+  },
+  {
+    "path": "Npc/9010010.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9010010.img"
     }
   ]
 }
