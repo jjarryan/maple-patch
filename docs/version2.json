@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.2.2",
+  "version": "1.2.3",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -68,6 +68,34 @@
   {
     "path": "Character/Accessory/01142983.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142983.img"
+  },
+  {
+    "path": "Character/Accessory/01122000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122000.img"
+  },
+  {
+    "path": "Character/Accessory/01122118.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122118.img"
+  },
+  {
+    "path": "Character/Accessory/01122438.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122438.img"
+  },
+  {
+    "path": "Character/Accessory/01122439.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122439.img"
+  },
+  {
+    "path": "Character/Accessory/01122440.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122440.img"
+  },
+  {
+    "path": "Character/Glove/01082232.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082232.img"
+  },
+  {
+    "path": "Character/Glove/01082841.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082841.img"
   },
   {
     "path": "String/Eqp.img",
