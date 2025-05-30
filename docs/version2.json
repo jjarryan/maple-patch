@@ -2,8 +2,8 @@
   "version": "1.2.3",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
-  "dataSizeMB": 5806,
-  "fileCount": 64582, 
+  "dataSizeMB": 5805,
+  "fileCount": 64586, 
   "files": [
      {
     "path": "Map/Map/Map1/105100300.img",
