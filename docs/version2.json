@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.2.3",
+  "version": "1.2.4",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -12,6 +12,10 @@
   {
     "path": "Map/Map/Map1/105100301.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
+  },
+  {
+    "path": "Map/Map/Map2/240050101.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/240050101.img"
   },
   {
     "path": "Quest/Act.img",
