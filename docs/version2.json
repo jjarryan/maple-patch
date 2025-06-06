@@ -1,9 +1,9 @@
 ﻿{
-  "version": "1.2.4",
+  "version": "1.2.5",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
-  "fileCount": 64586, 
+  "fileCount": 64601, 
   "files": [
      {
     "path": "Map/Map/Map1/105100300.img",
@@ -100,6 +100,66 @@
   {
     "path": "Character/Glove/01082841.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082841.img"
+  },
+  {
+    "path": "Character/Weapon/01703649.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703649.img"
+  },
+  {
+    "path": "Character/Weapon/01703663.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703663.img"
+  },
+  {
+    "path": "Character/Shoes/01074172.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074172.img"
+  },
+  {
+    "path": "Character/Shoes/01074173.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074173.img"
+  },
+  {
+    "path": "Character/Shoes/01074189.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074189.img"
+  },
+  {
+    "path": "Character/Longcoat/01050817.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01050817.img"
+  },
+  {
+    "path": "Character/Longcoat/01050824.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01050824.img"
+  },
+  {
+    "path": "Character/Longcoat/01051894.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01051894.img"
+  },
+  {
+    "path": "Character/Longcoat/01051904.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01051904.img"
+  },
+  {
+    "path": "Character/Cape/01103870.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01103870.img"
+  },
+  {
+    "path": "Character/Cape/01103881.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01103881.img"
+  },
+  {
+    "path": "Character/Cap/01006829.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01006829.img"
+  },
+  {
+    "path": "Character/Cap/01006830.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01006830.img"
+  },
+  {
+    "path": "Character/Cap/01006849.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01006849.img"
+  },
+  {
+    "path": "Character/Cap/01006850.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01006850.img"
   },
   {
     "path": "String/Eqp.img",
