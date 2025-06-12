@@ -1,221 +1,45 @@
 ﻿{
-  "version": "1.2.7",
+  "version": "1.2.8",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
   "fileCount": 64601, 
   "files": [
      {
-    "path": "Map/Map/Map1/105100300.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100300.img"
-  },
-  {
-    "path": "Map/Map/Map1/105100301.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/105100301.img"
-  },
-  {
-    "path": "Map/Map/Map2/240050101.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/240050101.img"
-  },
-  {
-    "path": "Quest/Act.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Act.img"
-  },
-  {
-    "path": "Quest/Check.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Check.img"
-  },
-  {
-    "path": "Quest/QuestInfo.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestInfo.img"
-  },
-  {
-    "path": "Quest/Say.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Say.img"
-  },
-  {
-    "path": "Quest/QuestData/2238.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2238.img"
-  },
-  {
-    "path": "Quest/QuestData/2239.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/2239.img"
-  },
-  {
-    "path": "Character/Accessory/01142982.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142982.img"
-      },
-  {
-    "path": "Character/Accessory/01132000.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132000.img"
-  },
-  {
-    "path": "Character/Accessory/01132001.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132001.img"
-  },
-  {
-    "path": "Character/Accessory/01132002.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132002.img"
-  },
-  {
-    "path": "Character/Accessory/01132003.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132003.img"
-  },
-  {
-    "path": "Character/Accessory/01132004.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132004.img"
-  },
-  {
-    "path": "Character/Accessory/01132321.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132321.img"
+    "path": "String/Eqp.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
   },
   {
     "path": "Character/Accessory/01142983.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142983.img"
   },
   {
-    "path": "Character/Accessory/01122000.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122000.img"
+    "path": "Character/Accessory/01142990.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142990.img"
   },
   {
-    "path": "Character/Accessory/01122118.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122118.img"
+    "path": "Character/Accessory/01142991.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142991.img"
   },
   {
-    "path": "Character/Accessory/01122438.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122438.img"
+    "path": "Character/Accessory/01142992.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142992.img"
   },
   {
-    "path": "Character/Accessory/01122439.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122439.img"
+    "path": "Character/Accessory/01142993.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142993.img"
   },
   {
-    "path": "Character/Accessory/01122440.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01122440.img"
+    "path": "Character/Accessory/01142995.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142995.img"
   },
   {
-    "path": "Character/Glove/01082232.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082232.img"
+    "path": "Character/Accessory/01142997.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142997.img"
   },
   {
-    "path": "Character/Glove/01082841.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082841.img"
-  },
-  {
-    "path": "Character/Weapon/01703649.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703649.img"
-  },
-  {
-    "path": "Character/Weapon/01703663.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703663.img"
-  },
-  {
-    "path": "Character/Shoes/01074172.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074172.img"
-  },
-  {
-    "path": "Character/Shoes/01074173.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074173.img"
-  },
-  {
-    "path": "Character/Shoes/01074189.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shoes/01074189.img"
-  },
-  {
-    "path": "Character/Longcoat/01050817.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01050817.img"
-  },
-  {
-    "path": "Character/Longcoat/01050824.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01050824.img"
-  },
-  {
-    "path": "Character/Longcoat/01051894.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01051894.img"
-  },
-  {
-    "path": "Character/Longcoat/01051904.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Longcoat/01051904.img"
-  },
-  {
-    "path": "Character/Cape/01103870.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01103870.img"
-  },
-  {
-    "path": "Character/Cape/01103881.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01103881.img"
-  },
-  {
-    "path": "Character/Cap/01006829.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006829.img"
-  },
-  {
-    "path": "Character/Cap/01006830.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006830.img"
-  },
-  {
-    "path": "Character/Cap/01006849.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006849.img"
-  },
-  {
-    "path": "Character/Cap/01006850.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006850.img"
-  },
-  {
-    "path": "String/Eqp.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
-  },
-  {
-    "path": "String/Consume.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/String/Consume.img"
-  },
-  {
-    "path": "Item/Consume/0202.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
-  },
-  {
-    "path": "Item/Consume/0243.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
-  },
-  {
-    "path": "Item/Consume/0204.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0204.img"
-  },
-  {
-    "path": "Item/Install/0398.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Install/0398.img"
-  },
-  {
-    "path": "Item/Etc/0400.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0400.img"
-  },
-  {
-    "path": "Item/Etc/0401.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0401.img"
-  },
-  {
-    "path": "Item/Etc/0402.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0402.img"
-  },
-  {
-    "path": "String/Ins.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/String/Ins.img"
-  },
-  {
-    "path": "Etc/ScriptInfo.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ScriptInfo.img"
-  },
-  {
-    "path": "Npc/2060002.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/2060002.img"
-  },
-  {
-    "path": "Npc/9010010.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9010010.img"
-  },
-  {
-    "path": "UI/Basic.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/UI/Basic.img"
+    "path": "Character/Accessory/01142998.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142998.img"
     }
   ]
 }
