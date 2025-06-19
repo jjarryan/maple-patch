@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.2.8",
+  "version": "1.2.9",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -40,6 +40,22 @@
   {
     "path": "Character/Accessory/01142998.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142998.img"
+  },
+  {
+    "path": "Character/Cap/01005217.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005217.img"
+  },
+  {
+    "path": "Character/Cap/01005218.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005218.img"
+  },
+  {
+    "path": "Character/Cap/01006011.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006011.img"
+  },
+  {
+    "path": "Character/Cap/01006012.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006012.img"
     }
   ]
 }
