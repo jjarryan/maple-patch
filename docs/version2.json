@@ -10,6 +10,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Eqp.img"
   },
   {
+    "path": "String/Consume.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Consume.img"
+  },
+  {
     "path": "Character/Accessory/01142983.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142983.img"
   },
@@ -74,12 +78,24 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01012073.img"
   },
   {
+    "path": "Character/Ring/01112402.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Ring/01112402.img"
+  },
+  {
     "path": "Item/Consume/0202.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
   },
   {
     "path": "Item/Consume/0243.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
+  },
+  {
+    "path": "Item/Consume/0207.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0207.img"
+  },
+  {
+    "path": "Etc/ScriptInfo.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ScriptInfo.img"
     }
   ]
 }
