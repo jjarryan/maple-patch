@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.3.6",
+  "version": "1.3.7",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -20,6 +20,10 @@
   {
     "path": "String/Skill.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Skill.img"
+  },
+  {
+    "path": "String/Etc.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
   },
   {
     "path": "Character/Accessory/01142983.img",
@@ -78,6 +82,22 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006012.img"
   },
   {
+    "path": "Character/Cap/01006051.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006051.img"
+  },
+  {
+    "path": "Character/Cap/01006052.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006052.img"
+  },
+  {
+    "path": "Character/Cap/01006385.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006385.img"
+  },
+  {
+    "path": "Character/Cap/01006387.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006387.img"
+  },
+  {
     "path": "Character/Accessory/01012070.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01012070.img"
   },
@@ -122,6 +142,18 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Skill/132.img"
   },
   {
+    "path": "Skill/112.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/112.img"
+  },
+  {
+    "path": "Skill/212.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/212.img"
+  },
+  {
+    "path": "Skill/232.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/232.img"
+  },
+  {
     "path": "Npc/1111111.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Npc/1111111.img"
   },
@@ -132,6 +164,10 @@
   {
     "path": "Etc/ItemMake.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ItemMake.img"
+  },
+  {
+    "path": "Etc/Commodity.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
     }
   ]
 }
