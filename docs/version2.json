@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.3.8",
+  "version": "1.3.9",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -152,6 +152,10 @@
   {
     "path": "Skill/232.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Skill/232.img"
+  },
+  {
+    "path": "Skill/1000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/1000.img"
   },
   {
     "path": "Npc/1111111.img",
