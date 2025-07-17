@@ -14,6 +14,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Consume.img"
   },
   {
+    "path": "String/Map.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Map.img"
+  },
+  {
     "path": "String/Npc.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Npc.img"
   },
@@ -126,6 +130,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
   },
   {
+    "path": "Item/Consume/0203.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
+  },
+  {
     "path": "Item/Consume/0243.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0243.img"
   },
@@ -172,6 +180,26 @@
   {
     "path": "Etc/Commodity.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
+  },
+  {
+    "path": "Map/Map/Map2/211000000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/211000000.img"
+  },
+  {
+    "path": "Map/Map/Map2/211060201.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/211060201.img"
+  },
+  {
+    "path": "Map/Map/Map2/211060401.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/211060401.img"
+  },
+  {
+    "path": "Map/Map/Map2/211060601.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/211060601.img"
+  },
+  {
+    "path": "Map/Map/Map2/211060800.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map2/211060601.img"
     }
   ]
 }
