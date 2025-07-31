@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.4.4",
+  "version": "1.4.5",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -218,20 +218,20 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082237.img"
   },
   {
-    "path": "Character/Glove/01082238.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082238.img"
+    "path": "Character/Glove/01082338.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082338.img"
   },
   {
-    "path": "Character/Glove/01082239.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082239.img"
+    "path": "Character/Glove/01082339.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082339.img"
   },
   {
-    "path": "Character/Glove/01082240.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082240.img"
+    "path": "Character/Glove/01082340.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082340.img"
   },
   {
-    "path": "Character/Glove/01082241.img",
-    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082241.img"
+    "path": "Character/Glove/01082341.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Glove/01082341.img"
   },
   {
     "path": "Character/LongCoat/01052155.img",
