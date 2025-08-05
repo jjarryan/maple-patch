@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.4.7",
+  "version": "1.4.8",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -184,6 +184,18 @@
   {
     "path": "Character/Cap/01006683.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006683.img"
+  },
+  {
+    "path": "Character/Cap/01006685.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006685.img"
+  },
+  {
+    "path": "Character/Cap/01006686.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006686.img"
+  },
+  {
+    "path": "Character/Cap/01006687.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006687.img"
   },
   {
     "path": "Character/Cape/01102312.img",
@@ -450,6 +462,18 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703569.img"
   },
   {
+    "path": "Character/Weapon/01703392.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703392.img"
+  },
+  {
+    "path": "Character/Weapon/01703570.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703570.img"
+  },
+  {
+    "path": "Character/Weapon/01703571.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703571.img"
+  },
+  {
     "path": "Item/Consume/0202.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
   },
@@ -514,6 +538,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Skill/1000.img"
   },
   {
+    "path": "Skill/MobSkill.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/MobSkill.img"
+  },
+  {
     "path": "Npc/1111111.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Npc/1111111.img"
   },
@@ -528,6 +556,14 @@
   {
     "path": "Etc/Commodity.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Etc/Commodity.img"
+  },
+  {
+    "path": "Mob/8220005.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/8220005.img"
+  },
+  {
+    "path": "Mob/8820001.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Etc/8820001.img"
   },
   {
     "path": "Map/Map/Map2/211000000.img",
@@ -551,5 +587,6 @@
     }
   ]
 }
+
 
 
