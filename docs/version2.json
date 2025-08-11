@@ -294,6 +294,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/LongCoat/01052387.img"
   },
   {
+    "path": "Character/LongCoat/01051885.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/LongCoat/01051885.img"
+  },
+  {
     "path": "Character/Shield/01092057.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Shield/01092057.img"
   },
@@ -651,6 +655,7 @@
     }
   ]
 }
+
 
 
 
