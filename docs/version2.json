@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.5.3",
+  "version": "1.5.4",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -212,6 +212,10 @@
   {
     "path": "Character/Cap/01006592.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006592.img"
+  },
+  {
+    "path": "Character/Cap/01006381.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006381.img"
   },
   {
     "path": "Character/Cape/01102312.img",
@@ -655,6 +659,7 @@
     }
   ]
 }
+
 
 
 
