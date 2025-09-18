@@ -1,9 +1,9 @@
 ﻿{
-  "version": "1.6.4",
+  "version": "1.6.5",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
-  "fileCount": 64614, 
+  "fileCount": 64615, 
   "files": [
      {
     "path": "String/Eqp.img",
@@ -92,6 +92,10 @@
   {
     "path": "Character/Accessory/01143260.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01143260.img"
+  },
+  {
+    "path": "Character/Accessory/01143261.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01143261.img"
   },
   {
     "path": "Character/Cap/01005217.img",
@@ -256,6 +260,26 @@
   {
     "path": "Character/Cap/01006171.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006171.img"
+  },
+  {
+    "path": "Character/Cap/01006567.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006567.img"
+  },
+  {
+    "path": "Character/Cap/01006568.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006568.img"
+  },
+  {
+    "path": "Character/Cap/01006083.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006083.img"
+  },
+  {
+    "path": "Character/Cap/01006735.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006735.img"
+  },
+  {
+    "path": "Character/Cap/01006739.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01006739.img"   
   },
   {
     "path": "Character/Cape/01102312.img",
@@ -546,6 +570,18 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703571.img"
   },
   {
+    "path": "Character/Weapon/01703528.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703528.img"
+  },
+  {
+    "path": "Character/Weapon/01703529.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703529.img"
+  },
+  {
+    "path": "Character/Weapon/01703530.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Weapon/01703530.img"
+  },
+  {
     "path": "Item/Consume/0202.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
   },
@@ -564,6 +600,10 @@
   {
     "path": "Item/Consume/0207.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0207.img"
+  },
+  {
+    "path": "Item/Etc/0403.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0403.img"
   },
   {
     "path": "Skill/422.img",
@@ -622,6 +662,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9010010.img"
   },
   {
+    "path": "Npc/9000021.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/9000021.img"
+  },
+  {
     "path": "Etc/ScriptInfo.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Etc/ScriptInfo.img"
   },
@@ -644,6 +688,10 @@
   {
     "path": "Mob/8820001.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Mob/8820001.img"
+  },
+  {
+    "path": "Map/Map/Map1/102000000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Map/Map/Map1/102000000.img"
   },
   {
     "path": "Map/Map/Map2/211000000.img",
@@ -747,6 +795,7 @@
     }
   ]
 }
+
 
 
 
