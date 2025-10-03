@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.6.9",
+  "version": "1.7.0",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5805,
@@ -40,13 +40,18 @@
   {
     "path": "Quest/Check.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Check.img"
-      },
+  },
   {
     "path": "Quest/QuestData/9999.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9999.img"
+  },
+  {
+    "path": "Quest/QuestData/9998.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9998.img"
     }
   ]
 }
+
 
 
 
