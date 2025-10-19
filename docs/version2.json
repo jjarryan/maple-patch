@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.7.8",
+  "version": "1.8.0",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5807,
@@ -110,12 +110,48 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142012.img"
   },
   {
+    "path": "Character/Accessory/01132105.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132105.img"
+  },
+  {
+    "path": "Character/Accessory/01132106.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132106.img"
+  },
+  {
+    "path": "Character/Accessory/01132107.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132107.img"
+  },
+  {
+    "path": "Character/Accessory/01132108.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132108.img"
+  },
+  {
+    "path": "Character/Cape/01102312.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01102312.img"
+  },
+  {
+    "path": "Character/Cape/01102313.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01102313.img"
+  },
+  {
+    "path": "Character/Cape/01102314.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01102314.img"
+  },
+  {
+    "path": "Character/Cape/01102315.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01102315.img"
+  },
+  {
     "path": "Item/Consume/0206.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0206.img"
   },
   {
     "path": "Item/Consume/0202.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Consume/0202.img"
+  },
+  {
+    "path": "Item/Etc/0402.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0402.img"
   },
   {
     "path": "UI/NameTag.img",
@@ -128,6 +164,14 @@
   {
     "path": "String/Skill.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Skill.img"
+  },
+  {
+    "path": "String/Consume.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Consume.img"
+  },
+  {
+    "path": "String/Etc.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
   },
   {
     "path": "Skill/420.img",
@@ -147,6 +191,7 @@
     }
   ]
 }
+
 
 
 
