@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.8.1",
+  "version": "1.8.2",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5807,
@@ -48,6 +48,10 @@
   {
     "path": "Character/Cap/01005040.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005040.img"
+  },
+  {
+    "path": "Character/Cap/01002699.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01002699.img"
   },
   {
     "path": "Character/Cap/01005113.img",
@@ -126,6 +130,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01132108.img"
   },
   {
+    "path": "Character/Accessory/01142032.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Accessory/01142032.img"
+  },
+  {
     "path": "Character/Cape/01102312.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cape/01102312.img"
   },
@@ -172,10 +180,18 @@
   {
     "path": "String/Etc.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
+      },
+  {
+    "path": "Npc/2120000.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Npc/2120000.img"
   },
   {
     "path": "Skill/420.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Skill/420.img"
+  },
+  {
+    "path": "Quest/Act.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Act.img"
   },
   {
     "path": "Quest/Check.img",
@@ -188,9 +204,194 @@
   {
     "path": "Quest/QuestData/9998.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9998.img"
+  },
+  {
+    "path": "Quest/QuestData/9920.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9920.img"
+  },
+  {
+    "path": "Quest/QuestData/9921.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9921.img"
+  },
+  {
+    "path": "Quest/QuestData/9922.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9922.img"
+  },
+  {
+    "path": "Quest/QuestData/9923.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9923.img"
+  },
+  {
+    "path": "Quest/QuestData/9924.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9924.img"
+  },
+  {
+    "path": "Quest/QuestData/9925.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9925.img"
+  },
+  {
+    "path": "Quest/QuestData/9926.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9926.img"
+  },
+  {
+    "path": "Quest/QuestData/9927.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9927.img"
+  },
+  {
+    "path": "Quest/QuestData/9928.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9928.img"
+  },
+  {
+    "path": "Quest/QuestData/9929.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9929.img"
+  },
+  {
+    "path": "Quest/QuestData/9930.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9930.img"
+  },
+  {
+    "path": "Quest/QuestData/9931.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9931.img"
+  },
+  {
+    "path": "Quest/QuestData/9932.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9932.img"
+  },
+  {
+    "path": "Quest/QuestData/9933.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9933.img"
+  },
+  {
+    "path": "Quest/QuestData/9934.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9934.img"
+  },
+  {
+    "path": "Quest/QuestData/9935.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9935.img"
+  },
+  {
+    "path": "Quest/QuestData/9936.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9936.img"
+  },
+  {
+    "path": "Quest/QuestData/9937.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9937.img"
+  },
+  {
+    "path": "Quest/QuestData/9938.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9938.img"
+  },
+  {
+    "path": "Quest/QuestData/9939.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9939.img"
+  },
+  {
+    "path": "Quest/QuestData/9940.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9940.img"
+  },
+  {
+    "path": "Quest/QuestData/9941.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9941.img"
+  },
+  {
+    "path": "Quest/QuestData/9942.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9942.img"
+  },
+  {
+    "path": "Quest/QuestData/9943.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9943.img"
+  },
+  {
+    "path": "Quest/QuestData/9944.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9944.img"
+  },
+  {
+    "path": "Quest/QuestData/9945.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9945.img"
+  },
+  {
+    "path": "Quest/QuestData/9946.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9946.img"
+  },
+  {
+    "path": "Quest/QuestData/9947.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9947.img"
+  },
+  {
+    "path": "Quest/QuestData/10062.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10062.img"
+  },
+  {
+    "path": "Quest/QuestData/10063.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10063.img"
+  },
+  {
+    "path": "Quest/QuestData/10064.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10064.img"
+  },
+  {
+    "path": "Quest/QuestData/10065.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10065.img"
+  },
+  {
+    "path": "Quest/QuestData/10066.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10066.img"
+  },
+  {
+    "path": "Quest/QuestData/10067.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10067.img"
+  },
+  {
+    "path": "Quest/QuestData/10068.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10068.img"
+  },
+  {
+    "path": "Quest/QuestData/10069.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10069.img"
+  },
+  {
+    "path": "Quest/QuestData/10070.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10070.img"
+  },
+  {
+    "path": "Quest/QuestData/10071.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10071.img"
+  },
+  {
+    "path": "Quest/QuestData/10072.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10072.img"
+  },
+  {
+    "path": "Quest/QuestData/10073.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10073.img"
+  },
+  {
+    "path": "Quest/QuestData/10074.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10074.img"
+  },
+  {
+    "path": "Quest/QuestData/10075.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10075.img"
+  },
+  {
+    "path": "Quest/QuestData/10076.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10076.img"
+  },
+  {
+    "path": "Quest/QuestData/10077.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10077.img"
+  },
+  {
+    "path": "Quest/QuestData/10078.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10078.img"
+  },
+  {
+    "path": "Quest/QuestData/10079.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/10079.img"
     }
   ]
 }
+
 
 
 
