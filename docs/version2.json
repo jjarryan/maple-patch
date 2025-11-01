@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.8.4",
-  "launchArgs": "26.210.7.53 8484",
+  "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "2.0",
   "dataSizeMB": 5807,
   "fileCount": 64619, 
@@ -399,6 +399,7 @@
     }
   ]
 }
+
 
 
 
