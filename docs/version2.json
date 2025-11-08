@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.8.4",
+  "version": "1.8.5",
   "launchArgs": "26.210.7.53 5353",
   "patcherMinVersion": "3.0",
   "dataSizeMB": 5807,
@@ -76,6 +76,14 @@
   {
     "path": "Character/Cap/01005713.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005713.img"
+  },
+  {
+    "path": "Character/Cap/01005083.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005083.img"
+  },
+  {
+    "path": "Character/Cap/01005084.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Character/Cap/01005084.img"
   },
   {
     "path": "Character/Accessory/01012329.img",
@@ -170,6 +178,10 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Item/Etc/0402.img"
   },
   {
+    "path": "Item/Install/0398.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Item/Install/0398.img"
+  },
+  {
     "path": "UI/NameTag.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/UI/NameTag.img"
   },
@@ -186,9 +198,13 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Consume.img"
   },
   {
+    "path": "String/Ins.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/String/Ins.img"
+  },
+  {
     "path": "String/Etc.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/String/Etc.img"
-      },
+  },
   {
     "path": "Npc/2120000.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Npc/2120000.img"
@@ -196,6 +212,18 @@
   {
     "path": "Skill/420.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Skill/420.img"
+  },
+  {
+    "path": "Skill/112.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/112.img"
+  },
+  {
+    "path": "Skill/122.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/122.img"
+  },
+  {
+    "path": "Skill/231.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Skill/231.img"
   },
   {
     "path": "Quest/Act.img",
@@ -206,8 +234,20 @@
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Check.img"
   },
   {
+    "path": "Quest/QuestInfo.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestInfo.img"
+  },
+  {
+    "path": "Quest/Say.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/Say.img"
+  },
+  {
     "path": "Quest/QuestData/9999.img",
     "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9999.img"
+  },
+  {
+    "path": "Quest/QuestData/9210.img",
+    "url": "https://jjarryan.github.io/maple-patch/Data/Quest/QuestData/9210.img"
   },
   {
     "path": "Quest/QuestData/9998.img",
@@ -399,6 +439,7 @@
     }
   ]
 }
+
 
 
 
